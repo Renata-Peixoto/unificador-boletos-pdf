@@ -1,6 +1,6 @@
 # Unificador e Conciliador Automático de Boletos (PDF)
 
-Aplicação desktop em **Python** (`Tkinter` + `pypdf`) para conferir relatórios de **Relação de Recebimentos** contra lotes de boletos em PDF, validando simultaneamente **Nosso Número** e **Data de Vencimento** antes de unificar os documentos.
+Aplicação desktop em **Python** (`Tkinter` + `pypdf`) para conferir relatórios contra lotes de boletos em PDF, validando simultaneamente **Nosso Número** e **Data de Vencimento** antes de unificar os documentos.
 
 ## Como executar
 ```bash
